@@ -1,6 +1,6 @@
 # AIDA
 
-Hello World
+Hello
 
 Some specteclular edits here :-)
 
